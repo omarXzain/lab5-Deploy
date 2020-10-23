@@ -132,7 +132,7 @@
 				}
 
 				#main > section.dark strong {
-					color: #fff;
+					color: rgb(235, 95, 95);
 					border-color: inherit;
 				}
 
@@ -157,16 +157,17 @@
 			}
 
 			#main > section.two {
-				background-color: #f5fafa;
+				background-color: #4ac4c4;
 			}
 
 			#main > section.three {
-				background-color: #ecf1f1;
+				background-color: #2acfcf;
 			}
 
 			#main > section.four {
-				background-color: #e8edec;
+				background-color: #39ccaf;
 			}
+
 
 
             
@@ -515,4 +516,9 @@
 
 
 
+	}
+
+	section.two {
+		background-color: #2d2030;
+		
 	}
